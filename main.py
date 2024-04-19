@@ -47,6 +47,7 @@ def counter(archive, set_of_letters):
 
     # sorted_keys = sorted(letters_info.keys(), key=lambda letter: letters_info[letter]["probability"], reverse=True)
 
+    # Get the letters occurrences sorted by probability
     sorted_letters_info = {}
     for key in sorted_keys:
         sorted_letters_info[key] = letters_info[key]
