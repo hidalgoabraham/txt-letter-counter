@@ -5,4 +5,4 @@ _Programe un script llamado main.py, que sea capaz de cargar un archivo .txt, y 
 - Cantidad de líneas
 - Cantidad de palabras
 - Cantidad de letras
-- La probabilidad de ocurencia de cada letra
+- La probabilidad de ocurencia de cada letra, en orden descendente.
